@@ -25,6 +25,7 @@ export default function LookBookComp() {
               alt={item.title}
               loading="lazy"
             />
+            
           </ImageListItem>
         ))}
       </ImageList>
